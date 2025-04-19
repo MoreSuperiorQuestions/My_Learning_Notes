@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "4b5d140083073a08",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7e992bec416f616",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e5eff4bfa022931",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Restart.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Restart"
+            }
+          },
+          {
+            "id": "edec9dbfa5f7578d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reading/ProgrammingBooks/Dead_Simple_Python/Why do I want to read this book?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Why do I want to read this book?"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "28a9bdad0ac31cd2",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d009ed3e8b9861c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85a4a09b3b02f358",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "493270cf9a3b0792",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3bf3c10770660907",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "db66d7b1f33e2dc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "98e52f5c62e4c1ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a41208e695b3b2dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programming/How to use programming tools.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for How to use programming tools"
+            }
+          },
+          {
+            "id": "d30a5885d9411492",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Programming/How to use programming tools.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from How to use programming tools"
+            }
+          },
+          {
+            "id": "9877bbe7b1fb955b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0ee170de57b41a1c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programming/How to use programming tools.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of How to use programming tools"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "85a4a09b3b02f358",
+  "lastOpenFiles": [
+    "Reading/ProgrammingBooks/Rules of Play - Game Design Fundamentals",
+    "Reading/ProgrammingBooks/Dead_Simple_Python/Instruction.md",
+    "Reading/ProgrammingBooks/Dead_Simple_Python/Why do I want to read this book?.md",
+    "Reading/ProgrammingBooks/Dead_Simple_Python",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "Restart.md",
+    "Reading/ProgrammingBooks",
+    "Reading",
+    "Programming/Programming Philosophy.md",
+    "Programming/Untitled 2.md",
+    "Programming/Untitled 1.md",
+    "Programming/How to use programming tools.md",
+    "Programming/_01Setup_Guides/Mac Development Environment Setup Guide.md",
+    "Diary/何时能自由.md",
+    "Diary/Untitled.md",
+    "Reading/中文书",
+    "philosophy",
+    "Logic",
+    "Diary",
+    "2025-03-29.md",
+    "Programming/_Templates/每日笔记模板.md",
+    "Programming/_Templates/概念理解模板.md",
+    "Programming/_Templates/工具笔记模板.md",
+    "Programming/_Templates",
+    "Programming/_Daily_Notes",
+    "Programming/_Inbox_Quick_Notes",
+    "Untitled.canvas",
+    "Untitled 1.md"
+  ]
+}
