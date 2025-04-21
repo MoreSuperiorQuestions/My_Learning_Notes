@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3e5eff4bfa022931",
+            "id": "edaa82bf95338ae2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Restart.md",
+                "file": "Reading/ProgrammingBooks/Dead_Simple_Python/01_Module：Python 核心理念与语言定位/Chapter 01 - Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Restart"
-            }
-          },
-          {
-            "id": "edec9dbfa5f7578d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reading/ProgrammingBooks/Dead_Simple_Python/Why do I want to read this book?.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Why do I want to read this book?"
+              "title": "Chapter 01 - Introduction"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,39 +165,50 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "85a4a09b3b02f358",
+  "active": "edaa82bf95338ae2",
   "lastOpenFiles": [
+    "Restart.md",
+    "Reading/ProgrammingBooks/Dead_Simple_Python/01_Module：Python 核心理念与语言定位/Chapter 01 - Introduction.md",
+    "Reading/ProgrammingBooks/Dead_Simple_Python/附录笔记（语言辅助区块）/💬 Expressions - DSP.md",
+    "Reading/ProgrammingBooks/Dead_Simple_Python/00 - Index.md.md",
+    "Reading/ProgrammingBooks/Dead_Simple_Python/01_Module：Python 核心理念与语言定位/Chapter 03 - Language Semantics.md",
+    "Reading/ProgrammingBooks/Dead_Simple_Python/Chapter Template.md",
+    "Reading/ProgrammingBooks/Dead_Simple_Python/07_Module：编程哲学与惯用语法/Chapter 19 - Pythonic Thinking.md",
+    "Reading/ProgrammingBooks/Dead_Simple_Python/07_Module：编程哲学与惯用语法/Chapter 20 - Advanced Idioms.md",
+    "Reading/ProgrammingBooks/Dead_Simple_Python/07_Module：编程哲学与惯用语法/Chapter 21 - What Makes Python 'Simple'?.md",
+    "Reading/ProgrammingBooks/Dead_Simple_Python/06_Module：工程实践与调试工具/Chapter 16 - Virtual Environments.md",
+    "Reading/ProgrammingBooks/Dead_Simple_Python/06_Module：工程实践与调试工具/Chapter 17 - Tooling and Formatting.md",
+    "Reading/ProgrammingBooks/Dead_Simple_Python/06_Module：工程实践与调试工具/Chapter 18 - Debugging and Logging.md",
+    "Reading/ProgrammingBooks/Dead_Simple_Python/05_Module：模块化与项目结构/Chapter 14 - Modules and Packages.md",
+    "Reading/ProgrammingBooks/Dead_Simple_Python/05_Module：模块化与项目结构/Chapter 15 - Project Structure and Imports.md",
+    "Reading/ProgrammingBooks/Dead_Simple_Python/04_Modue：类、对象与结构设计/Chapter 11 - Classes and Objects.md",
+    "Reading/ProgrammingBooks/Dead_Simple_Python/04_Modue：类、对象与结构设计/Chapter 12 - Inheritance and Composition.md",
+    "Reading/ProgrammingBooks/Dead_Simple_Python/04_Modue：类、对象与结构设计/Chapter 13 - Dunder Methods.md",
+    "Reading/ProgrammingBooks/Dead_Simple_Python/03_Modue：控制流与函数机制/Chapter 08 - Flow Control (if, for, while).md",
+    "Reading/ProgrammingBooks/Dead_Simple_Python/03_Modue：控制流与函数机制/Chapter 09 - Functions and Scope.md",
+    "Reading/ProgrammingBooks/Dead_Simple_Python/03_Modue：控制流与函数机制/Chapter 10 - Lambdas, Closures, Decorators.md",
+    "Reading/ProgrammingBooks/Dead_Simple_Python/02_Module：Python 数据与类型系统/Chapter 04 - Values, Types, and Variables.md",
+    "Reading/ProgrammingBooks/Dead_Simple_Python/02_Module：Python 数据与类型系统/Chapter 05 - Primitive Types.md",
+    "Reading/ProgrammingBooks/Dead_Simple_Python/02_Module：Python 数据与类型系统/Chapter 06 - Sequences (List, Tuple, Range).md",
+    "Reading/ProgrammingBooks/Dead_Simple_Python/02_Module：Python 数据与类型系统/Chapter 07 - Mapping and Sets.md",
+    "Reading/ProgrammingBooks/Dead_Simple_Python/01_Module：Python 核心理念与语言定位/Chapter 02 - The Myth of Simplicity.md",
+    "Dead_Simple_Python_Notes_Configured.zip",
+    "Reading/ProgrammingBooks/Dead_Simple_Python/附录笔记（语言辅助区块）",
+    "Reading/ProgrammingBooks/Dead_Simple_Python/附录笔记（语言辅助区块）/📚 Vocabulary List - DSP.md",
+    "Reading/ProgrammingBooks/Dead_Simple_Python/07_Module：编程哲学与惯用语法",
+    "Reading/ProgrammingBooks/Dead_Simple_Python/06_Module：工程实践与调试工具",
+    "Reading/ProgrammingBooks/Dead_Simple_Python/05_Module：模块化与项目结构",
+    "Reading/ProgrammingBooks/Dead_Simple_Python/04_Modue：类、对象与结构设计",
+    "Reading/ProgrammingBooks/Dead_Simple_Python/03_Modue：控制流与函数机制",
+    "Reading/ProgrammingBooks/Dead_Simple_Python/02_Module：Python 数据与类型系统",
+    "Reading/ProgrammingBooks/Dead_Simple_Python/01_Module：Python 核心理念与语言定位",
     "Reading/ProgrammingBooks/Rules of Play - Game Design Fundamentals",
-    "Reading/ProgrammingBooks/Dead_Simple_Python/Instruction.md",
-    "Reading/ProgrammingBooks/Dead_Simple_Python/Why do I want to read this book?.md",
-    "Reading/ProgrammingBooks/Dead_Simple_Python",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
-    "Restart.md",
-    "Reading/ProgrammingBooks",
-    "Reading",
-    "Programming/Programming Philosophy.md",
-    "Programming/Untitled 2.md",
-    "Programming/Untitled 1.md",
-    "Programming/How to use programming tools.md",
-    "Programming/_01Setup_Guides/Mac Development Environment Setup Guide.md",
-    "Diary/何时能自由.md",
-    "Diary/Untitled.md",
-    "Reading/中文书",
-    "philosophy",
-    "Logic",
-    "Diary",
-    "2025-03-29.md",
-    "Programming/_Templates/每日笔记模板.md",
-    "Programming/_Templates/概念理解模板.md",
-    "Programming/_Templates/工具笔记模板.md",
-    "Programming/_Templates",
-    "Programming/_Daily_Notes",
-    "Programming/_Inbox_Quick_Notes",
-    "Untitled.canvas",
-    "Untitled 1.md"
+    "Untitled.canvas"
   ]
 }
